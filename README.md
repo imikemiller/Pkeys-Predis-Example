@@ -6,7 +6,7 @@ Run
 
 `composer install`
 
-Study [PredisExample.php](Pkeys-Predis-Example/PredisExample.php)
+Study [PredisExample.php](https://github.com/imikemiller/Pkeys-Predis-Example/blob/master/PredisExample.php)
 
 Then run
 
